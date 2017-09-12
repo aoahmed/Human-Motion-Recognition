@@ -32,8 +32,8 @@ There are 3 status : "UNOCCUPIED" , "WALKING" and "THREAT" if the new data is di
 
 <p align="center">
   <img width="400" height="300" src="https://drive.google.com/open?id=0B_fO19h3EdRaSTVZaEY0aDEwS00">
-  <img width="400" height="300" src="">
-  <img width="400" height="300" src="">
+  <img width="400" height="300" src="https://drive.google.com/open?id=0B_fO19h3EdRaTnYyYTJnSF9MUXM">
+  <img width="400" height="300" src="https://drive.google.com/open?id=0B_fO19h3EdRaX3RaYUY4UTM5MEU">
 </p>
 
 
