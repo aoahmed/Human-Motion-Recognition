@@ -31,14 +31,10 @@ for image in os.listdir('/home/ahmed/Desktop/dataset1/train'):
 There are 3 status : "UNOCCUPIED" , "WALKING" and "THREAT" if the new data is different from the training set (which is walking)
 
 <p align="center">
-  <img width="400" height="300" src="https://drive.google.com/open?id=0B_fO19h3EdRaSTVZaEY0aDEwS00">
-  <img width="400" height="300" src="https://drive.google.com/open?id=0B_fO19h3EdRaTnYyYTJnSF9MUXM">
-  <img width="400" height="300" src="https://drive.google.com/open?id=0B_fO19h3EdRaX3RaYUY4UTM5MEU">
+  <img src="https://ibb.co/myszzF">
+  <img width="400" height="300" src="https://ibb.co/jHnA6v">
+  <img width="400" height="300" src="https://ibb.co/jp0V6v">
 </p>
-
-
-
-
 
 
 
