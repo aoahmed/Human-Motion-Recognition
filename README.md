@@ -25,3 +25,24 @@ for image in os.listdir('/home/ahmed/Desktop/dataset1/train'):
     except:
         matrix_train = imgvector
 ```
+
+# Results !!!
+
+There are 3 status : "UNOCCUPIED" , "WALKING" and "THREAT" if the new data is different from the training set (which is walking)
+
+<p align="center">
+  <img width="400" height="300" src="https://drive.google.com/open?id=0B_fO19h3EdRaSTVZaEY0aDEwS00">
+  <img width="400" height="300" src="">
+  <img width="400" height="300" src="">
+</p>
+
+
+
+
+
+
+
+
+
+
+
