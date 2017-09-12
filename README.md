@@ -39,3 +39,7 @@ This is the  classification scheme where we can see the training (yellow dots) a
 <p align="center">
   <img width="400" height="300" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/class.PNG?raw=true">
 </p>
+
+# Improvements !!!
+
+As an Improvement, I have to add more classes to recognize more motions and push the accuracy more and more to 98%.
