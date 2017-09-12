@@ -30,7 +30,7 @@ for image in os.listdir('/home/ahmed/Desktop/dataset1/train'):
 There are 3 status : "UNOCCUPIED" , "WALKING" and "THREAT" if the new data is different from the training set (which is walking)
 
 <p align="center">
-  <img width="200" height="300" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/unoccupied.PNG?raw=true">
-  <img width="200" height="300" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/walking.PNG?raw=true">
-  <img width="200" height="300" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/threat.PNG?raw=true">
+  <img width="200" height="200" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/unoccupied.PNG?raw=true">
+  <img width="200" height="200" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/walking.PNG?raw=true">
+  <img width="200" height="200" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/threat.PNG?raw=true">
 </p>
