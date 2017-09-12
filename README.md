@@ -34,3 +34,8 @@ There are 3 status : "UNOCCUPIED" , "WALKING" and "THREAT" if the new data is di
   <img width="200" height="200" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/walking.PNG?raw=true">
   <img width="200" height="200" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/threat.PNG?raw=true">
 </p>
+
+This is the  classification scheme where we can see the training (yellow dots) and testing (red dots) sets retain the same proportion and the the accuracy level of prediction is about 0.899/1.
+<p align="center">
+  <img width="400" height="300" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/class.PNG?raw=true">
+</p>
