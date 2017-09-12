@@ -10,5 +10,18 @@ I propose a motion recognition method using OneClass SVM (Support Vector Machine
 The method is based on recursive tracking and reducing noise in order to improve the tracking capability.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/train/weighted27.jpg?raw=true">
+  <img width="400" height="300" src="https://github.com/aoahmed/Human-Motion-Recognition/blob/master/dataset/train/weighted27.jpg?raw=true">
 </p>
+
+# Preparing dataset
+
+```
+matrix_train = None
+for image in os.listdir('/home/ahmed/Desktop/dataset1/train'):
+    imgraw = cv2.imread(os.path.join('/home/ahmed/Desktop/dataset1/train', image), 0)
+    imgvector = imgraw.reshape(160*120)
+    try:
+        matrix_train = np.vstack((matrix_train, imgvector))
+    except:
+        matrix_train = imgvector
+```
